@@ -1,2 +1,2 @@
-# WebPackConfig
-Simple Webpack config 2019
+# WebPackStarterBundle
+Simple Webpack starter 2019
