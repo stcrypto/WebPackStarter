@@ -2,7 +2,6 @@
   "name": "webpackstarter",
   "version": "1.0.1",
   "description": "Simple Webpack Starter 2019",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack-dev-server --hot  --progress --colors --mode development",
@@ -11,10 +10,6 @@
     "prebuild": "rimraf public && npm install"
   },
   "author": "neokkers",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/neokkers/WebPackStarter.git"
-  },
   "keywords": [
     "webpack",
     "babel",
